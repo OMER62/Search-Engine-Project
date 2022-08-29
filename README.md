@@ -1,4 +1,4 @@
-# Search-Engine-Project
+<h1> Search Engine </h1>
 As a part of the Information retrieval course task, we built a search engine based on Wikipedia corpus until 2021.
 
 The project execution in python and the workspace of google collab and the google cloud platform.
